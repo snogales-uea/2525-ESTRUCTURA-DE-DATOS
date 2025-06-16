@@ -1,0 +1,58 @@
+﻿Console.WriteLine("2525 - ESTRUCTURA DE DATOS - UEA / SEMANA 03");
+Console.WriteLine("\n");
+
+string[] ltelefono = ["0991111111", "0992222222", "0993333333"];
+Estudiante estudiante = new Estudiante(1, "Carlos", "Torres", "Puyo, Av. Principal 123", ltelefono);
+
+//estudiante.Saludar();
+estudiante.MostrarInformacion();
+
+--------------------------------------------------------------------------
+Console.WriteLine("2525 - ESTRUCTURA DE DATOS - UEA / SEMANA 03");
+Console.WriteLine("\n");
+
+try
+{
+    Console.Write("Ingrese la cantidad de estudiantes a registrar: ");
+    int cantidad = int.Parse(Console.ReadLine());
+
+    Estudiante[] lestudiante = new Estudiante[5];
+
+    for (int i = 0; i < cantidad; i++)
+    {
+        Console.WriteLine($"\n--- Estudiante {i + 1} ---");
+
+        Console.Write("ID: ");
+        int id = int.Parse(Console.ReadLine());
+
+        Console.Write("Nombre: ");
+        string nombre = Console.ReadLine();
+
+        Console.Write("Apellido: ");
+        string apellido = Console.ReadLine();
+
+        Console.Write("Direccion: ");
+        string direccion = Console.ReadLine();
+
+        string[] telefonos = new string[3];
+        for (int j = 0; j < 3; j++)
+        {
+            Console.Write($"Telefono {j + 1}: ");
+            telefonos[j] = Console.ReadLine();
+        }
+
+        Estudiante estudiante = new Estudiante(id, nombre, apellido, direccion, telefonos);
+        lestudiante[i] = estudiante;
+    }
+
+    Console.WriteLine("\n--- Informacion de los estudiantes ---");
+    foreach (var estudiante in lestudiante)
+    {
+        estudiante.MostrarInformacion();
+    }
+}
+catch (Exception err)
+{
+    Console.WriteLine("\nError durante la ejecucion.");
+    Console.WriteLine($"MError: {err.Message}");
+}
