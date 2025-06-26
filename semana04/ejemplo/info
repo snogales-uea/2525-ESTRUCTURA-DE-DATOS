@@ -2,7 +2,8 @@ Ejemplo:
 - Agenda de servicios de un taller mecánico -
 
 Objetivo del sistema:
-  - Registrar y administrar los servicios programados para vehículos en un taller mecánico, 
+  - Registrar y administrar los servicios programados 
+  para vehículos en un taller mecánico, 
     diferenciando entre:
   - Servicios de mantenimiento (cambio de aceite, frenos, etc.)
   - Servicios de reparación (motor, sistema eléctrico, etc.)

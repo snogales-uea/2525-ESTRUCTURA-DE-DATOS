@@ -1,0 +1,15 @@
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\bin\Debug\net9.0\programa1.exe
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\bin\Debug\net9.0\programa1.deps.json
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\bin\Debug\net9.0\programa1.runtimeconfig.json
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\bin\Debug\net9.0\programa1.dll
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\bin\Debug\net9.0\programa1.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\obj\Debug\net9.0\programa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\obj\Debug\net9.0\programa1.AssemblyInfoInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\obj\Debug\net9.0\programa1.AssemblyInfo.cs
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\obj\Debug\net9.0\programa1.csproj.CoreCompileInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\obj\Debug\net9.0\programa1.sourcelink.json
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\obj\Debug\net9.0\programa1.dll
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\obj\Debug\net9.0\refint\programa1.dll
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\obj\Debug\net9.0\programa1.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\obj\Debug\net9.0\programa1.genruntimeconfig.cache
+D:\Datos\Documents\UEA\CURSOS\ED\ED-B\semana04\programa1\obj\Debug\net9.0\ref\programa1.dll
