@@ -1,0 +1,14 @@
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\bin\Debug\net9.0\semana05.exe
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\bin\Debug\net9.0\semana05.deps.json
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\bin\Debug\net9.0\semana05.runtimeconfig.json
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\bin\Debug\net9.0\semana05.dll
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\bin\Debug\net9.0\semana05.pdb
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\obj\Debug\net9.0\semana05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\obj\Debug\net9.0\semana05.AssemblyInfoInputs.cache
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\obj\Debug\net9.0\semana05.AssemblyInfo.cs
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\obj\Debug\net9.0\semana05.csproj.CoreCompileInputs.cache
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\obj\Debug\net9.0\semana05.dll
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\obj\Debug\net9.0\refint\semana05.dll
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\obj\Debug\net9.0\semana05.pdb
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\obj\Debug\net9.0\semana05.genruntimeconfig.cache
+C:\Users\DYNABOOK\Documents\UEA\ED\semana05\obj\Debug\net9.0\ref\semana05.dll
