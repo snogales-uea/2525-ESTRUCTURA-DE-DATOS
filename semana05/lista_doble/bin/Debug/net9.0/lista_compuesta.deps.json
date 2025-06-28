@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "lista_compuesta/1.0.0": {
+        "runtime": {
+          "lista_compuesta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lista_compuesta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

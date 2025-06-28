@@ -1,0 +1,15 @@
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\bin\Debug\net9.0\lista_simple.exe
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\bin\Debug\net9.0\lista_simple.deps.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\bin\Debug\net9.0\lista_simple.runtimeconfig.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\bin\Debug\net9.0\lista_simple.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\bin\Debug\net9.0\lista_simple.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\obj\Debug\net9.0\lista_simple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\obj\Debug\net9.0\lista_simple.AssemblyInfoInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\obj\Debug\net9.0\lista_simple.AssemblyInfo.cs
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\obj\Debug\net9.0\lista_simple.csproj.CoreCompileInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\obj\Debug\net9.0\lista_simple.sourcelink.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\obj\Debug\net9.0\lista_simple.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\obj\Debug\net9.0\refint\lista_simple.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\obj\Debug\net9.0\lista_simple.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\obj\Debug\net9.0\lista_simple.genruntimeconfig.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana05\lista_simple\obj\Debug\net9.0\ref\lista_simple.dll
