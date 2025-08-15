@@ -1,0 +1,15 @@
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\bin\Debug\net9.0\ejercicio1.exe
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\bin\Debug\net9.0\ejercicio1.deps.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\bin\Debug\net9.0\ejercicio1.runtimeconfig.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\bin\Debug\net9.0\ejercicio1.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\bin\Debug\net9.0\ejercicio1.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\obj\Debug\net9.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfoInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfo.cs
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\obj\Debug\net9.0\ejercicio1.csproj.CoreCompileInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\obj\Debug\net9.0\ejercicio1.sourcelink.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\obj\Debug\net9.0\ejercicio1.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\obj\Debug\net9.0\refint\ejercicio1.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\obj\Debug\net9.0\ejercicio1.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\obj\Debug\net9.0\ejercicio1.genruntimeconfig.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana08\ejercicio1\obj\Debug\net9.0\ref\ejercicio1.dll
