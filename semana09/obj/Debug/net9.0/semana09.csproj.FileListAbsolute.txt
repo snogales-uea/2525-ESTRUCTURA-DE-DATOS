@@ -1,0 +1,15 @@
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\obj\Debug\net9.0\semana09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\obj\Debug\net9.0\semana09.AssemblyInfoInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\obj\Debug\net9.0\semana09.AssemblyInfo.cs
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\obj\Debug\net9.0\semana09.csproj.CoreCompileInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\obj\Debug\net9.0\semana09.sourcelink.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\bin\Debug\net9.0\semana09.exe
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\bin\Debug\net9.0\semana09.deps.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\bin\Debug\net9.0\semana09.runtimeconfig.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\bin\Debug\net9.0\semana09.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\bin\Debug\net9.0\semana09.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\obj\Debug\net9.0\semana09.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\obj\Debug\net9.0\refint\semana09.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\obj\Debug\net9.0\semana09.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\obj\Debug\net9.0\semana09.genruntimeconfig.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana09\obj\Debug\net9.0\ref\semana09.dll
