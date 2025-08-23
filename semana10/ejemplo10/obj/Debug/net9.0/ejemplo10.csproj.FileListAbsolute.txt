@@ -1,0 +1,15 @@
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\bin\Debug\net9.0\ejemplo10.exe
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\bin\Debug\net9.0\ejemplo10.deps.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\bin\Debug\net9.0\ejemplo10.runtimeconfig.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\bin\Debug\net9.0\ejemplo10.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\bin\Debug\net9.0\ejemplo10.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\obj\Debug\net9.0\ejemplo10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\obj\Debug\net9.0\ejemplo10.AssemblyInfoInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\obj\Debug\net9.0\ejemplo10.AssemblyInfo.cs
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\obj\Debug\net9.0\ejemplo10.csproj.CoreCompileInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\obj\Debug\net9.0\ejemplo10.sourcelink.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\obj\Debug\net9.0\ejemplo10.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\obj\Debug\net9.0\refint\ejemplo10.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\obj\Debug\net9.0\ejemplo10.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\obj\Debug\net9.0\ejemplo10.genruntimeconfig.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana10\ejemplo10\obj\Debug\net9.0\ref\ejemplo10.dll
