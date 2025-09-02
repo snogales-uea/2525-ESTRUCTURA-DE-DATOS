@@ -27,10 +27,19 @@
         // 4. Operaciones de conjuntos
         // =========================================================================
 
+        /*
+        U = [1,2,..500] //TODOS
+        A = [1,25,6]    //PZIFER
+        B = [2,6,4]     //AZTRAZENCA
+
+        vacunados = A u B = [1,2,4,6,25]
+        novacunados = U - vacunados [3,5,7...,24...500]
+
+        */
+
         // vacunados = (A ∪ B)
         var vacunados = new HashSet<string>(conjuntoA);     // copia de A
         vacunados.UnionWith(conjuntoB);                     // ahora A ∪ B
-
 
         // no vacunados = U - vacunados
         var noVacunados = new HashSet<string>(conjuntoU);   // copia de U
@@ -55,6 +64,7 @@
         Console.WriteLine("Total ciudadanos: " + conjuntoU.Count);
         Console.WriteLine("Vacunados con Pfizer: " + conjuntoA.Count);
         Console.WriteLine("Vacunados con AstraZeneca: " + conjuntoB.Count);
+        Console.WriteLine("Vacunados: " + vacunados.Count);
         Console.WriteLine("No vacunados: " + noVacunados.Count);
         Console.WriteLine("Ambas dosis: " + ambasDosis.Count);
         Console.WriteLine("Solo Pfizer: " + soloPfizer.Count);
@@ -82,9 +92,10 @@
         HashSet<string> conjunto = new HashSet<string>();
         Random random = new Random();
         while (conjunto.Count < 75)
+        //for (int i = 1; i <= 75; i++)
         {
-            int numero = random.Next(1, 500);
-            conjunto.Add("Ciudadano " + numero);
+            int num = random.Next(1, 500);
+            conjunto.Add("Ciudadano " + num);
         }
         return conjunto;
     }
