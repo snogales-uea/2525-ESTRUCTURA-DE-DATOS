@@ -1,0 +1,106 @@
+/* General styling for the container and body */
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f7fa;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Title styling */
+h1 {
+  font-size: 2.5rem;
+  color: #3e4a61;
+  margin-bottom: 20px;
+}
+
+/* Styling for input and buttons */
+input[type="number"] {
+  width: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  margin-right: 10px;
+  font-size: 1rem;
+  outline: none;
+  transition: border 0.3s ease;
+}
+
+input[type="number"]:focus {
+  border-color: #6c63ff;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 10px;
+  border: none;
+  font-size: 1rem;
+  color: white;
+  background-color: #6c63ff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #5754d6;
+}
+
+/* Styling for traversal result */
+#traversalResult {
+  font-size: 1.2rem;
+  color: #3e4a61;
+  margin-top: 20px;
+}
+
+/* Styling for SVG canvas */
+#bstCanvas {
+  margin-top: 20px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  background-color: #eef2f7;
+}
+
+/* Node (circle) styling */
+circle {
+  stroke: #3e4a61;
+  stroke-width: 2px;
+  fill: #6c63ff;
+  transition: fill 0.3s ease, stroke-width 0.3s ease;
+}
+
+circle:hover {
+  fill: #5754d6;
+  stroke-width: 3px;
+}
+
+/* Node text styling */
+text {
+  font-size: 14px;
+  font-weight: bold;
+  text-anchor: middle;
+  fill: white;
+}
+
+/* Styling for edge lines */
+line {
+  stroke: #3e4a61;
+  stroke-width: 2px;
+}
+
+/* Highlight class for animations */
+.highlight {
+  stroke: #ff6347;
+  stroke-width: 4px;
+  fill: #ffd966;
+  transition: fill 0.3s ease, stroke-width 0.3s ease;
+}
