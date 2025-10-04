@@ -1,0 +1,6 @@
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana16\ejercicio4\obj\Debug\net9.0\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana16\ejercicio4\obj\Debug\net9.0\ejercicio4.AssemblyInfoInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana16\ejercicio4\obj\Debug\net9.0\ejercicio4.AssemblyInfo.cs
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana16\ejercicio4\obj\Debug\net9.0\ejercicio4.csproj.CoreCompileInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana16\ejercicio4\obj\Debug\net9.0\ejercicio4.sourcelink.json
+D:\Datos\Documents\UEA\CURSOS\ED\2525-ESTRUCTURA-DE-DATOS\semana16\ejercicio4\obj\Debug\net9.0\ejercicio4.csproj.AssemblyReference.cache

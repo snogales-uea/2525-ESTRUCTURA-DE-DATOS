@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRRU8EOK6XI=",
+  "success": true,
+  "projectFilePath": "D:\\Datos\\Documents\\UEA\\CURSOS\\ED\\2525-ESTRUCTURA-DE-DATOS\\semana16\\ejercicio4\\ejercicio4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Santiago\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.9\\microsoft.win32.systemevents.9.0.9.nupkg.sha512",
+    "C:\\Users\\Santiago\\.nuget\\packages\\system.drawing.common\\9.0.9\\system.drawing.common.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
